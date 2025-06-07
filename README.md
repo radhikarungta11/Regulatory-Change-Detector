@@ -44,9 +44,18 @@ To build an AI-powered tool that automates the initial stages of this workflow:
 | File Types | `.txt` regulatory documents |
 
 ---
-
+🖼️ App UI Preview
 
 ![regulatory_change](https://github.com/user-attachments/assets/75f96687-165e-45a6-a133-270663713152)
+
+1️⃣ File Upload Interface
+
+![Screenshot (50)](https://github.com/user-attachments/assets/a752eb86-36df-4862-bc86-8c8ba7c6163f)
+
+2️⃣ AI-Powered Change Summary
+
+
+
 
 
 
