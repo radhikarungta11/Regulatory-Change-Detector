@@ -46,5 +46,9 @@ To build an AI-powered tool that automates the initial stages of this workflow:
 ---
 
 
+![regulatory_change](https://github.com/user-attachments/assets/75f96687-165e-45a6-a133-270663713152)
+
+
+
 
 
