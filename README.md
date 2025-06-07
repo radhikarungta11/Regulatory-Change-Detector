@@ -46,13 +46,18 @@ To build an AI-powered tool that automates the initial stages of this workflow:
 ---
 🖼️ App UI Preview
 
-![regulatory_change](https://github.com/user-attachments/assets/75f96687-165e-45a6-a133-270663713152)
+![Screenshot (51)](https://github.com/user-attachments/assets/6a51b84a-2535-429c-a9c4-8c82b7ddcee6)
+
 
 1️⃣ File Upload Interface
 
-![Screenshot (50)](https://github.com/user-attachments/assets/a752eb86-36df-4862-bc86-8c8ba7c6163f)
+![Screenshot (52)](https://github.com/user-attachments/assets/1b4d84a7-f307-486e-aed5-7625b7a47e08)
 
 2️⃣ AI-Powered Change Summary
+
+
+![Screenshot (53)](https://github.com/user-attachments/assets/4fa257aa-1e1c-4e0a-9a74-d9705a53dfbb)
+
 
 
 
