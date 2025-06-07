@@ -42,21 +42,28 @@ To build an AI-powered tool that automates the initial stages of this workflow:
 | Backend    | Difflib for text comparison |
 | AI Engine  | [Ollama](https://ollama.com/) with `mistral` model |
 | File Types | `.txt` regulatory documents |
+____________________________________________________________________________
 
----
 🖼️ App UI Preview
+
 
 ![Screenshot (51)](https://github.com/user-attachments/assets/6a51b84a-2535-429c-a9c4-8c82b7ddcee6)
 
 
 1️⃣ File Upload Interface
 
+
 ![Screenshot (52)](https://github.com/user-attachments/assets/1b4d84a7-f307-486e-aed5-7625b7a47e08)
+
 
 2️⃣ AI-Powered Change Summary
 
 
 ![Screenshot (53)](https://github.com/user-attachments/assets/4fa257aa-1e1c-4e0a-9a74-d9705a53dfbb)
+
+
+![Screenshot (54)](https://github.com/user-attachments/assets/c499486d-be65-4a60-9dd1-e5c0498cd512)
+
 
 
 
