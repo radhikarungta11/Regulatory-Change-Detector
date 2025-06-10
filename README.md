@@ -3,7 +3,7 @@
 
 # 🧠 AI-Powered Regulatory Change Detector
 
-A functional prototype for identifying and analyzing changes between versions of regulatory documents — built as part of the Zipp.ai Intern Assessment Project (Case Study #1: *The Challenge of Regulatory Change*).
+A functional prototype for identifying and analyzing changes between versions of regulatory documents
 
 > Automates change detection and provides LLM-powered impact analysis using a local model (Mistral via Ollama). Built with Python + Streamlit.
 
