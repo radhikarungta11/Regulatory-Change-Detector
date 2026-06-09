@@ -1,7 +1,7 @@
 import streamlit as st
 import difflib 
 import json 
-import requests
+import requests 
 
 OLLAMA_API_URL = "http://localhost:11434/api/generate"  # default Ollama API
 
